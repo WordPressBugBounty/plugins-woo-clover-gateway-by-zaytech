@@ -1,0 +1,1 @@
+# plugins-woo-clover-gateway-by-zaytech
